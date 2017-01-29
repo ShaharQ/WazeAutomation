@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * Created by OmriNissim on 26/01/2017.
  */
-public class test {//
+public class test {
 
     public AndroidDriver driver;
 
