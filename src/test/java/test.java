@@ -31,7 +31,7 @@ public class test {
         ProcessBuilder pb = new ProcessBuilder(cmdAndArgs);
         pb.directory(dir);
         Process p = pb.start();
-        Thread.sleep(5000);
+        Thread.sleep(10000);
 
         List cmdAndArgs1 = Arrays.asList("cmd", "/c","start", "LGG2Node.bat");
         File dir1 = new File("C:\\Users\\OmriNissim\\Downloads\\");
