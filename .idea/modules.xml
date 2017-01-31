@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WazeAutomation.iml" filepath="$PROJECT_DIR$/WazeAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WazeAutomation.iml" filepath="$PROJECT_DIR$/.idea/WazeAutomation.iml" />
     </modules>
   </component>
 </project>

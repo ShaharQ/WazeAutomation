@@ -37,7 +37,7 @@ public class test {
         File dir1 = new File("C:\\Users\\OmriNissim\\Downloads\\");
         ProcessBuilder pb1= new ProcessBuilder(cmdAndArgs1);
         pb1.directory(dir1);
-        Process p1 = pb.start();
+        Process p1 = pb1.start();
 
         File appDir = new File("/Users/OmriNissim/Downloads/");
         File app = new File(appDir, "waze_4_16_0_0.apk");
